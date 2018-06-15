@@ -14,7 +14,7 @@
         to right bottom,
         rgba($color-primary-light, 0.8),
         rgba($color-primary-dark, 0.8)),
-    url(../img/nat-4.jpg);
+    url(https://images.unsplash.com/photo-1462530260150-162092dbf011?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f66923bff4d175cc0ab70fabb21393e6&auto=format&fit=crop&w=1577&q=80);
     background-size: cover;
     transform: skewY(-7deg);
     margin-top: -10rem;
@@ -58,11 +58,12 @@
 }
 
 .book {
+ 
     background-image: linear-gradient(105deg, 
                                     rgba($color-white, .9) 0%,
                                     rgba($color-white, .9) 50%,
                                     transparent 50%) ,
-                            url(../img/nat-10.jpg);
+                            url(https://images.unsplash.com/photo-1461218779480-bb61b6be1924?ixlib=rb-0.3.5&s=ec453bd5b30831b4ffb3bfa50b29d69e&auto=format&fit=crop&w=1651&q=80);
     background-size: 100%;
     border-radius: 3px;
     box-shadow: 0 1.5rem 4rem rgba($color-black, .2);
@@ -72,7 +73,7 @@
         rgba($color-white, .9) 0%,
         rgba($color-white, .9) 65%,
         transparent 65%) ,
-url(../img/nat-10.jpg);
+url(https://images.unsplash.com/photo-1461218779480-bb61b6be1924?ixlib=rb-0.3.5&s=ec453bd5b30831b4ffb3bfa50b29d69e&auto=format&fit=crop&w=1651&q=80);
         background-size: cover;
     }
 
@@ -80,7 +81,7 @@ url(../img/nat-10.jpg);
         background-image: linear-gradient(to right, 
         rgba($color-white, .9) 0%,
         rgba($color-white, .9) 100%),
-url(../img/nat-10.jpg);
+url(https://images.unsplash.com/photo-1461218779480-bb61b6be1924?ixlib=rb-0.3.5&s=ec453bd5b30831b4ffb3bfa50b29d69e&auto=format&fit=crop&w=1651&q=80);
     }
 
     &__form {
